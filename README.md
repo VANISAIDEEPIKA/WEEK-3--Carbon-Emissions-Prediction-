@@ -11,6 +11,7 @@ The focus is on building AI-powered green solutions using real-world climate dat
 - Downloaded the raw climate change dataset
 - Inspected and cleaned missing/inconsistent values
 - Saved the cleaned dataset as `data_cleaned.csv`
+-  📁 [View Week 1 GitHub Repo](https://github.com/VANISAIDEEPIKA/WEEK1-Carbon-Emissions-Prediction-.git)
 
 ### ✅ Week 2: Data Exploration & Feature Engineering
 - Loaded the cleaned dataset
@@ -19,6 +20,8 @@ The focus is on building AI-powered green solutions using real-world climate dat
 - Plotted feature distributions using `matplotlib` and `seaborn`
 - Analyzed feature correlations for modeling insights
 - Prepared numerical features for modeling
+-  📁 [View Week 2 GitHub Repo](https://github.com/VANISAIDEEPIKA/WEEK2-Carbon-Emissions-Prediction-.git)
+
 
 ### ✅ Week 3: Model Building & Evaluation
 - Split the dataset into train and test sets
@@ -41,6 +44,9 @@ The focus is on building AI-powered green solutions using real-world climate dat
 
 ## 🌱 Project Objective
 
+This project aims to predict the CO2 emission from various parameters such as country, population-specific parameters, economic indicators, land-related, energy use, etc.  
+Our aim is to clean the data, explore it, and make a predictive analysis. Using a robust algorithm, we predict the future values of GHG emissions, mainly **CO₂**.
+
 - Leverage **AI & Machine Learning** for climate insights
 - Build a robust carbon emission prediction pipeline
 - Apply **Green Skills** on real-world environmental datasets
@@ -49,13 +55,11 @@ The focus is on building AI-powered green solutions using real-world climate dat
 
 ## 🛠️ Tech Stack
 
-- Python 🐍
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Missingno
-- Scikit-learn
-- Random Forest Algorithm 🌳
-- Jupyter Notebook
+
+- **Languages & Libraries**: Python 🐍, Pandas, NumPy, Matplotlib, Seaborn, Missingno, Scikit-learn
+- **ML Algorithm**: Random Forest Regressor 🌳
+- **Notebook Environment**: Jupyter Notebook
+- **Dev Tools**: Visual Studio Code (VS Code) 💻
 
 ---
 
