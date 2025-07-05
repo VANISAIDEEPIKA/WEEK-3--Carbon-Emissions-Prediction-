@@ -27,7 +27,7 @@ The focus is on building AI-powered green solutions using real-world climate dat
 - Documented cross-validation results
 
 ---
-📑 [1_data_preparation_modified.ipynb](./1_data_preparation_modified.ipynb) 👉 Week 1: Raw data cleaning  
+📑 [1_data_preparation_modified (3).ipynb](./1_data_preparation_modified%20%283%29.ipynb) 👉 Week 1: Raw data cleaning  
 📑 [2_data_exploration_cleaned.ipynb](./2_data_exploration_cleaned.ipynb) 👉 Week 2: EDA & Feature Engineering  
 📑 [3_model_building_final.ipynb](./3_model_building_final.ipynb) 👉 Week 3: Model Training & Prediction  
 📑 [Final_Climate_Analysis_Week1_2_3.ipynb](./Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)  
