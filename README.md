@@ -27,15 +27,14 @@ The focus is on building AI-powered green solutions using real-world climate dat
 - Documented cross-validation results
 
 ---
+📑 [1_data_preparation_modified.ipynb](./1_data_preparation_modified.ipynb) 👉 Week 1: Raw data cleaning  
+📑 [2_data_exploration_cleaned.ipynb](./2_data_exploration_cleaned.ipynb) 👉 Week 2: EDA & Feature Engineering  
+📑 [3_model_building_final.ipynb](./3_model_building_final.ipynb) 👉 Week 3: Model Training & Prediction  
+📑 [Final_Climate_Analysis_Week1_2_3.ipynb](./Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)  
+📑 [climate_change_download_0.xls](./climate_change_download_0.xls) 👉 Original dataset (raw)  
+📑 [data_cleaned.csv](./data_cleaned.csv) 👉 Cleaned dataset  
+📑 [README.md](./README.md) 👉 You're here!
 
-<pre> 📦 <strong>Carbon-Emission-Prediction-Internship</strong> 
-  ┣ 📑 <a href="1_data_preparation_modified.ipynb">1_data_preparation_modified.ipynb</a> 👉 Week 1: Raw data cleaning 
-  ┣ 📑 <a href="2_data_exploration_cleaned.ipynb">2_data_exploration_cleaned.ipynb</a> 👉 Week 2: EDA & Feature Engineering 
-  ┣ 📑 <a href="3_model_building_final.ipynb">3_model_building_final.ipynb</a> 👉 Week 3: Model Training & Prediction 
-  ┣ 📑 <a href="Final_Climate_Analysis_Week1_2_3.ipynb">Final_Climate_Analysis_Week1_2_3.ipynb</a> 👉 Combined notebook (W1–W3) 
-  ┣ 📑 <a href="climate_change_download_0.xls">climate_change_download_0.xls</a> 👉 Original dataset (raw)
-  ┣ 📑 <a href="data_cleaned.csv">data_cleaned.csv</a> 👉 Cleaned dataset 
-  ┗ 📑 <a href="README.md">README.md</a> 👉 You're here! </pre>
 
  ---
  
