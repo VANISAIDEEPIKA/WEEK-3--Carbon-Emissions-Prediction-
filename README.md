@@ -31,11 +31,12 @@ The focus is on building AI-powered green solutions using real-world climate dat
 - Documented cross-validation results
 
 ---
+## 📂 Local Notebooks
 
-📑 [1_data_preparation_modified (3).ipynb](./1_data_preparation_modified%20%283%29.ipynb) 👉 Week 1: Raw data cleaning  
-📑 [2_data_exploration_cleaned.ipynb](./2_data_exploration_cleaned.ipynb) 👉 Week 2: EDA & Feature Engineering  
-📑 [3_model_building_final.ipynb](./3_model_building_final.ipynb) 👉 Week 3: Model Training & Prediction  
-📑 [Final_Climate_Analysis_Week1_2_3.ipynb](./Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)  
+📑 [1_data_preparation_modified (3).ipynb](notebooks_local/1_data_preparation_modified%20%283%29.ipynb) 👉 Week 1: Raw data cleaning  
+📑 [2_data_exploration_cleaned.ipynb](notebooks_local/2_data_exploration_cleaned.ipynb) 👉 Week 2: EDA & Feature Engineering  
+📑 [3_model_building_final.ipynb](notebooks_local/3_model_building_final.ipynb) 👉 Week 3: Model Training & Prediction  
+📑 [Final_Climate_Analysis_Week1_2_3.ipynb](notebooks_local/Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)  
 📑 [climate_change_download_0.xls](./climate_change_download_0.xls) 👉 Original dataset (raw)  
 📑 [data_cleaned.csv](./data_cleaned.csv) 👉 Cleaned dataset  
 📑 [README.md](./README.md) 👉 You're here!
@@ -48,10 +49,11 @@ The focus is on building AI-powered green solutions using real-world climate dat
 > To ensure smooth viewing of **all code, outputs, graphs, and results**, this project is fully accessible via **Google Colab**.
 
 ### 🔗 Open in Colab:
-- 📘 [1_data_preparation_modified (3).ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/1_data_preparation_modified%20(3).ipynb) 👉 Week 1: Raw data cleaning  
-- 📘 [2_data_exploration_cleaned.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/2_data_exploration_cleaned.ipynb) 👉 Week 2: EDA & Feature Engineering  
-- 📘 [3_model_building_final.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/3_model_building_final.ipynb) 👉 Week 3: Model Training & Prediction  
-- 📘 [Final_Climate_Analysis_Week1_2_3.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)
+
+📑 [1_data_preparation_modified (3).ipynb](notebooks_local/1_data_preparation_modified%20%283%29.ipynb) 👉 Week 1: Raw data cleaning  
+📑 [2_data_exploration_cleaned.ipynb](notebooks_local/2_data_exploration_cleaned.ipynb) 👉 Week 2: EDA & Feature Engineering  
+📑 [3_model_building_final.ipynb](notebooks_local/3_model_building_final.ipynb) 👉 Week 3: Model Training & Prediction  
+📑 [Final_Climate_Analysis_Week1_2_3.ipynb](notebooks_local/Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3) 
 
 ---
 
