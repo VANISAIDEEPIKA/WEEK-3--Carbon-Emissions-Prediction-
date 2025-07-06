@@ -55,11 +55,11 @@ Our aim is to clean the data, explore it, and make a predictive analysis. Using 
 
 ## 🛠️ Tech Stack
 
-
-- **Languages & Libraries**: Python 🐍, Pandas, NumPy, Matplotlib, Seaborn, Missingno, Scikit-learn
-- **ML Algorithm**: Random Forest Regressor 🌳
-- **Notebook Environment**: Jupyter Notebook
+- **Languages & Libraries**: Python 🐍, Pandas, NumPy, Matplotlib, Seaborn, Missingno, Scikit-learn  
+- **ML Algorithm**: Random Forest Regressor 🌳  
+- **Notebook Environment**: Jupyter Notebook, Google Colab 📓☁️  
 - **Dev Tools**: Visual Studio Code (VS Code) 💻
+
 
 ---
 
