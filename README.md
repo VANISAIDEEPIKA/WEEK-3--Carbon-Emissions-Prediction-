@@ -1,6 +1,6 @@
 # 🌍 Carbon Emission Prediction – Edunet–Shell Skills4Future AICTE Internship
 
-This repository documents my work for **Weeks 1 to 3** of the **Carbon Emission Prediction** project completed under the [Edunet–Shell Skills4Future AICTE Internship](https://internship.aicte-india.org/), focused on **Green skills & AI**.  
+This repository documents my work for **Weeks 1 to 3** of the **Carbon Emission Prediction** project completed under the **Edunet–Shell Skills4Future AICTE Internship**, focused on **Green skills & AI**.  
 The focus is on building AI-powered green solutions using real-world climate datasets.
 
 
