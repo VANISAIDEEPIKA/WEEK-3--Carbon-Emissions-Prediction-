@@ -49,14 +49,8 @@ The focus is on building AI-powered green solutions using real-world climate dat
 > To ensure smooth viewing of **all code, outputs, graphs, and results**, this project is fully accessible via **Google Colab**.
 
 
-
-## ☁️ Open Notebooks in Google Colab
-
-- 📊 [1_data_preparation_modified_(3).ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/1_data_preparation_modified_%283%29.ipynb)
-- 📊 [2_data_exploration_cleaned.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/2_data_exploration_cleaned.ipynb)
-- 📊 [3_model_building_final.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/3_model_building_final.ipynb)
-- 📊 [_Final_Climate_Analysis_Week1_2_3.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/_Final_Climate_Analysis_Week1_2_3.ipynb)
-
+ ### 🔗 Open in Colab:
+ 📂 [notebooks_colab/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_colab) – Google Colab Notebooks  
 
 ---
 
