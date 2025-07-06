@@ -1,7 +1,9 @@
-# 🌍 Carbon Emission Prediction – AICTE–Shell Edunet Skills4Future Internship
+# 🌍 Carbon Emission Prediction – Edunet–Shell Skills4Future AICTE Internship
 
-This repository documents my work for **Weeks 1 to 3** of the **Carbon Emission Prediction** project completed under the [AICTE–Edunet Skills4Future Internship](https://internship.aicte-india.org/).  
+This repository documents my work for **Weeks 1 to 3** of the **Carbon Emission Prediction** project completed under the [Edunet–Shell Skills4Future AICTE Internship](https://internship.aicte-india.org/), focused on **Green skills & AI**.  
 The focus is on building AI-powered green solutions using real-world climate datasets.
+
+
 
 ---
 
@@ -11,7 +13,7 @@ The focus is on building AI-powered green solutions using real-world climate dat
 - Downloaded the raw climate change dataset
 - Inspected and cleaned missing/inconsistent values
 - Saved the cleaned dataset as `data_cleaned.csv`
--  📁 [View Week 1 GitHub Repo](https://github.com/VANISAIDEEPIKA/WEEK1-Carbon-Emissions-Prediction-.git)
+- 📁 [View Week 1 GitHub Repo](https://github.com/VANISAIDEEPIKA/WEEK1-Carbon-Emissions-Prediction-.git)
 
 ### ✅ Week 2: Data Exploration & Feature Engineering
 - Loaded the cleaned dataset
@@ -20,8 +22,7 @@ The focus is on building AI-powered green solutions using real-world climate dat
 - Plotted feature distributions using `matplotlib` and `seaborn`
 - Analyzed feature correlations for modeling insights
 - Prepared numerical features for modeling
--  📁 [View Week 2 GitHub Repo](https://github.com/VANISAIDEEPIKA/WEEK2-Carbon-Emissions-Prediction-.git)
-
+- 📁 [View Week 2 GitHub Repo](https://github.com/VANISAIDEEPIKA/WEEK2-Carbon-Emissions-Prediction-.git)
 
 ### ✅ Week 3: Model Building & Evaluation
 - Split the dataset into train and test sets
@@ -30,17 +31,49 @@ The focus is on building AI-powered green solutions using real-world climate dat
 - Documented cross-validation results
 
 ---
-📑 [1_data_preparation_modified (3).ipynb](./1_data_preparation_modified%20%283%29.ipynb) 👉 Week 1: Raw data cleaning       
-📑 [2_data_exploration_cleaned.ipynb](./2_data_exploration_cleaned.ipynb) 👉 Week 2: EDA & Feature Engineering       
-📑 [3_model_building_final.ipynb](./3_model_building_final.ipynb) 👉 Week 3: Model Training & Prediction     
-📑 [Final_Climate_Analysis_Week1_2_3.ipynb](./Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)      
-📑 [climate_change_download_0.xls](./climate_change_download_0.xls) 👉 Original dataset (raw)      
-📑 [data_cleaned.csv](./data_cleaned.csv) 👉 Cleaned dataset        
+
+📑 [1_data_preparation_modified (3).ipynb](./1_data_preparation_modified%20%283%29.ipynb) 👉 Week 1: Raw data cleaning  
+📑 [2_data_exploration_cleaned.ipynb](./2_data_exploration_cleaned.ipynb) 👉 Week 2: EDA & Feature Engineering  
+📑 [3_model_building_final.ipynb](./3_model_building_final.ipynb) 👉 Week 3: Model Training & Prediction  
+📑 [Final_Climate_Analysis_Week1_2_3.ipynb](./Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)  
+📑 [climate_change_download_0.xls](./climate_change_download_0.xls) 👉 Original dataset (raw)  
+📑 [data_cleaned.csv](./data_cleaned.csv) 👉 Cleaned dataset  
 📑 [README.md](./README.md) 👉 You're here!
 
+---
 
- ---
- 
+## 📘 Access Notebooks via Google Colab
+
+> ⚠️ **Note:** GitHub may not render large `.ipynb` files properly due to size or output limitations.  
+> To ensure smooth viewing of **all code, outputs, graphs, and results**, this project is fully accessible via **Google Colab**.
+
+### 🔗 Open in Colab:
+- 📘 [1_data_preparation_modified (3).ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/1_data_preparation_modified%20(3).ipynb) 👉 Week 1: Raw data cleaning  
+- 📘 [2_data_exploration_cleaned.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/2_data_exploration_cleaned.ipynb) 👉 Week 2: EDA & Feature Engineering  
+- 📘 [3_model_building_final.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/3_model_building_final.ipynb) 👉 Week 3: Model Training & Prediction  
+- 📘 [Final_Climate_Analysis_Week1_2_3.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)
+
+---
+
+### 📁 Explore Notebooks Directly on GitHub
+
+- 📂 [notebooks_local/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_local) – Local Jupyter Notebooks  
+- 📂 [notebooks_colab/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_colab) – Google Colab Notebooks  
+
+---
+
+## 💡 Why Google Colab?
+
+I chose **Google Colab** for this project because:
+
+- 🌐 It runs seamlessly in the cloud — no local setup headaches  
+- 🧠 Handles large data & outputs better than GitHub renderer  
+- 📲 Easy to **share** with mentors, reviewers & cert verifiers  
+- 🚀 Ideal for showcasing Machine Learning workflows with visualizations  
+
+> ✅ Everything is preloaded and ready-to-run with outputs preserved — no extra steps needed for verification!
+
+---
 
 ## 🌱 Project Objective
 
@@ -60,7 +93,6 @@ Our aim is to clean the data, explore it, and make a predictive analysis. Using 
 - **Notebook Environment**: Jupyter Notebook, Google Colab 📓☁️  
 - **Dev Tools**: Visual Studio Code (VS Code) 💻
 
-
 ---
 
 ## 🚀 Outcome
@@ -69,6 +101,3 @@ By Week 3, a working machine learning model was built using the **Random Forest 
 The notebook offers a complete walkthrough — from raw data prep to model evaluation.
 
 > 💡 *This project is a testament to how tech and sustainability go hand-in-hand.* 🌍✨
-
----
-
