@@ -50,7 +50,7 @@ The focus is on building AI-powered green solutions using real-world climate dat
 
 
  ### 🔗 Open in Colab:
- 📂 [notebooks_colab/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_colab) – Google Colab Notebooks  
+📂 [notebooks_colab/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_colab) – Google Colab Notebooks  
 
 ---
 
