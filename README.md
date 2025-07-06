@@ -48,6 +48,8 @@ The focus is on building AI-powered green solutions using real-world climate dat
 > ⚠️ **Note:** GitHub may not render large `.ipynb` files properly due to size or output limitations.  
 > To ensure smooth viewing of **all code, outputs, graphs, and results**, this project is fully accessible via **Google Colab**.
 
+
+
 ## ☁️ Open Notebooks in Google Colab
 
 📑 [1_data_preparation_modified_(3).ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/1_data_preparation_modified_(3).ipynb) 👉 Week 1: Raw data cleaning  
@@ -58,14 +60,6 @@ The focus is on building AI-powered green solutions using real-world climate dat
 
 📑 [Final_Climate_Analysis_Week1_2_3.ipynb](https://colab.research.google.com/github/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/blob/main/notebooks_colab/Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)  
 
-
-
----
-
-### 📁 Explore Notebooks Directly on GitHub
-
-- 📂 [notebooks_local/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_local) – Local Jupyter Notebooks  
-- 📂 [notebooks_colab/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_colab) – Google Colab Notebooks  
 
 ---
 
@@ -79,6 +73,13 @@ I chose **Google Colab** for this project because:
 - 🚀 Ideal for showcasing Machine Learning workflows with visualizations  
 
 > ✅ Everything is preloaded and ready-to-run with outputs preserved — no extra steps needed for verification!
+
+---
+
+### 📁 Explore Notebooks Directly on GitHub
+
+- 📂 [notebooks_local/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_local) – Local Jupyter Notebooks  
+- 📂 [notebooks_colab/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_colab) – Google Colab Notebooks  
 
 ---
 
