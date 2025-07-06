@@ -50,7 +50,8 @@ The focus is on building AI-powered green solutions using real-world climate dat
 
 
  ### 🔗 Open in Colab:
-📂 [notebooks_colab/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_colab) – Google Colab Notebooks  
+📂 [notebooks_colab/](./notebooks_colab) – Google Colab Notebooks
+
 
 ---
 
@@ -69,8 +70,8 @@ I chose **Google Colab** for this project because:
 
 ### 📁 Explore Notebooks Directly on GitHub
 
-- 📂 [notebooks_local/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_local) – Local Jupyter Notebooks  
-- 📂 [notebooks_colab/](https://github.com/VANISAIDEEPIKA/WEEK-3-Carbon-Emissions-Prediction/tree/main/notebooks_colab) – Google Colab Notebooks  
+📂 [notebooks_local/](./notebooks_local) – Local Jupyter Notebooks  
+📂 [notebooks_colab/](./notebooks_colab) – Google Colab Notebooks
 
 ---
 
