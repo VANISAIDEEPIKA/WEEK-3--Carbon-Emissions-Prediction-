@@ -39,7 +39,13 @@ The focus is on building AI-powered green solutions using real-world climate dat
 📑 [Final_Climate_Analysis_Week1_2_3.ipynb](notebooks_local/Final_Climate_Analysis_Week1_2_3.ipynb) 👉 Combined notebook (W1–W3)  
 📑 [climate_change_download_0.xls](./climate_change_download_0.xls) 👉 Original dataset (raw)  
 📑 [data_cleaned.csv](./data_cleaned.csv) 👉 Cleaned dataset  
-📑 [README.md](./README.md) 👉 You're here!
+📑 [README.md](./README.md) 👉 You're here!    
+
+📑 **Project Presentation**
+- [Carbon Emission Prediction.pptx](./Carbon%20Emission%20Prediction.pptx) 👉 Final project presentation slides for submission 
+
+---
+
 
 ---
 
